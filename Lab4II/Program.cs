@@ -10,8 +10,8 @@ namespace Lab4II
         }
 
         /// <summary>
-        ///     Checks if the 2D array is both a square and contains only diagonal elements
-        ///     (where non-diagonal elements are 0).
+        ///     Checks if the 2D array is both a square and contains only diagonal elements.
+        ///     Non-diagonal elements are 0 while diagonal elements are not 0.
         /// </summary>
         /// <param name="data">the 2D array passed in to be checked</param>
         /// <returns>true if the array is a square and contains only diagonal elements. Otherwise, false.</returns>
