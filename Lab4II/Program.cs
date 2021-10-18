@@ -38,22 +38,9 @@ namespace Lab4II
         /// <returns></returns>
         public static int[] RowSum(int[,] data)
         {
-            // newArray size will be the same size as the number of rows in data
-            int[] newArray = new int[2];
+            int[] newArray = new int[data.GetLength(0)];
             for (int i = 0; i < data.GetLength(0); i++)
-            {
-                for (int j = 0; j < data.GetLength(1); j++)
-                {
-                    // add each element in a specific row either to a variable or to newArray
-                    // for example: in row 0 there are two elements (3 and 7)
-                    // 10 would be stored in index 0 of newArray
-                    // in row 1, there are two elements (2 and 9)
-                    // 11 would be stored in index 1 of newArray
-                    // the row that you're in should match with newArray
-                    if (j == 0) newArray[0] = newArray[0] + data[i, j];
-                    if (j == 1) newArray[1] = newArray[1] + data[i, j];
-                }
-            }
+                newArray[i] = data[i, 0] + data[i, 1];
             return newArray;
         }
 
