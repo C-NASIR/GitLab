@@ -6,7 +6,8 @@ namespace Lab4II
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[,] _MultiDimentionArray = new int[4, 2] { { 3, 7 }, { 2, 9 }, { 0, 4 }, { 3, 1 } };
+            PrintRowSums(RowSum(_MultiDimentionArray));
         }
 
         /// <summary>
@@ -33,7 +34,7 @@ namespace Lab4II
         /// </summary>
         /// <param name="data"></param>
         /// <returns></returns>
-        public int[] RowSum(int[,] data)
+        public static int[] RowSum(int[,] data)
         {
             int[] newArray = new int[2];
             for (int i = 0; i < data.GetLength(0); i++)
