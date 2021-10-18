@@ -27,5 +27,24 @@ namespace Lab4II
             }
             return false;
         }
+
+        /// <summary>
+        /// This function takes 2D array, adds all Xs and Ys and returns a single array with two numbers
+        /// </summary>
+        /// <param name="data"></param>
+        /// <returns></returns>
+        public int[] RowSum(int[,] data)
+        {
+            int[] newArray = new int[2];
+            for (int i = 0; i < data.GetLength(0); i++)
+            {
+                for (int j = 0; j < data.GetLength(1); j++)
+                {
+                    if (j == 0) newArray[0] = newArray[0] + data[i, j];
+                    if (j == 1) newArray[1] = newArray[1] + data[i, j];
+                }
+            }
+            return newArray;
+        }
     }
 }
