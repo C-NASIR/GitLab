@@ -1,0 +1,16 @@
+C:\Users\amunds93\Source\Repos\GitLab\Lab4II\bin\Debug\net5.0\Lab4II.exe
+C:\Users\amunds93\Source\Repos\GitLab\Lab4II\bin\Debug\net5.0\Lab4II.deps.json
+C:\Users\amunds93\Source\Repos\GitLab\Lab4II\bin\Debug\net5.0\Lab4II.runtimeconfig.json
+C:\Users\amunds93\Source\Repos\GitLab\Lab4II\bin\Debug\net5.0\Lab4II.runtimeconfig.dev.json
+C:\Users\amunds93\Source\Repos\GitLab\Lab4II\bin\Debug\net5.0\Lab4II.dll
+C:\Users\amunds93\Source\Repos\GitLab\Lab4II\bin\Debug\net5.0\ref\Lab4II.dll
+C:\Users\amunds93\Source\Repos\GitLab\Lab4II\bin\Debug\net5.0\Lab4II.pdb
+C:\Users\amunds93\Source\Repos\GitLab\Lab4II\obj\Debug\net5.0\Lab4II.csproj.AssemblyReference.cache
+C:\Users\amunds93\Source\Repos\GitLab\Lab4II\obj\Debug\net5.0\Lab4II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amunds93\Source\Repos\GitLab\Lab4II\obj\Debug\net5.0\Lab4II.AssemblyInfoInputs.cache
+C:\Users\amunds93\Source\Repos\GitLab\Lab4II\obj\Debug\net5.0\Lab4II.AssemblyInfo.cs
+C:\Users\amunds93\Source\Repos\GitLab\Lab4II\obj\Debug\net5.0\Lab4II.csproj.CoreCompileInputs.cache
+C:\Users\amunds93\Source\Repos\GitLab\Lab4II\obj\Debug\net5.0\Lab4II.dll
+C:\Users\amunds93\Source\Repos\GitLab\Lab4II\obj\Debug\net5.0\ref\Lab4II.dll
+C:\Users\amunds93\Source\Repos\GitLab\Lab4II\obj\Debug\net5.0\Lab4II.pdb
+C:\Users\amunds93\Source\Repos\GitLab\Lab4II\obj\Debug\net5.0\Lab4II.genruntimeconfig.cache

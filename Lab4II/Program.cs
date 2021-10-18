@@ -46,5 +46,17 @@ namespace Lab4II
             }
             return newArray;
         }
+
+        /// <summary>
+        /// Prints each row's sum
+        /// </summary>
+        /// <param name="data">the 2D array's sums to be printed</param>
+        public static void PrintRowSums(int[] data)
+        {
+            for (int index = 0; index < data.Length; index++)
+            {
+                Console.WriteLine("Row {0} sum: {1}", index, data[index]);
+            }
+        }
     }
 }
