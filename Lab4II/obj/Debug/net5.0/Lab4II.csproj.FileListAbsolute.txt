@@ -28,3 +28,4 @@ C:\Users\amunds93\Source\Repos\GitLab\Lab4II\obj\Debug\net5.0\Lab4II.dll
 C:\Users\amunds93\Source\Repos\GitLab\Lab4II\obj\Debug\net5.0\ref\Lab4II.dll
 C:\Users\amunds93\Source\Repos\GitLab\Lab4II\obj\Debug\net5.0\Lab4II.pdb
 C:\Users\amunds93\Source\Repos\GitLab\Lab4II\obj\Debug\net5.0\Lab4II.genruntimeconfig.cache
+C:\Users\amunds93\Source\Repos\GitLab\Lab4II\obj\Debug\net5.0\Lab4II.csproj.AssemblyReference.cache
